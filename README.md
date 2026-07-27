@@ -1,5 +1,5 @@
 # Student Project
 
-Git Experiment 2
+Git Experiment by Student B
 
 Author: Disha Gupta
